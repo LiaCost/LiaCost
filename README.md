@@ -8,7 +8,7 @@ De um curso técnico que mudou tudo até o sonho de atuar com tecnologia: comece
 - **SQL Server, MySQL**
 - **Git, GitHub, Selenium, JMeter, Jasmine**
 
-🚀 Fui destaque em competições voltadas à resolução de problemas reais para empresas, conquistando **2º e 3º lugares** com soluções criativas nas áreas de engenharia e logística.
+🚀 Fui destaque em competições voltadas à resolução de problemas reais para empresas, conquistando **2º lugar** com soluções criativas nas áreas de engenharia e logística.
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas**, revendo e aprofundando os conhecimentos e aprendendo novas linguagens como **JAVA e C** e possibilidades. Também estou aberta a explorar outras áreas, como o desenvolvimento mobile.
 
