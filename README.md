@@ -13,7 +13,7 @@ De um curso técnico que mudou tudo até o sonho de atuar com tecnologia: comece
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas**, revendo e aprofundando os conhecimentos e aprendendo novas linguagens como **JAVA e C** e possibilidades. Também estou aberta a explorar outras áreas, como o desenvolvimento mobile.
 
-Sou curiosa, dedicada e sempre pronta pra encarar novos desafios. 
+Sou curiosa, dedicada e sempre pronta para encarar novos desafios. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lia-costa-1b59b9237/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lia.c.santtos@gmail.com) 
